@@ -1,13 +1,13 @@
-# News Summarization and Text-to-Speech Application
+# News Summarisation and Text-to-Speech Application
 
 ## Project Overview
 This project is a web-based application that extracts news articles related to a given company, performs sentiment analysis, conducts a comparative analysis, and generates a text-to-speech (TTS) output in Hindi. Users can input a company name and receive a structured sentiment report along with an audio summary.
 
 ## Features
 - **News Extraction:** Extracts and displays titles, summaries, and metadata from at least 10 unique news articles.
-- **Sentiment Analysis:** Categorizes each article as Positive, Negative, or Neutral.
+- **Sentiment Analysis:** Categorises each article as Positive, Negative, or Neutral.
 - **Comparative Analysis:** Highlights differences in news coverage across multiple articles.
-- **Text-to-Speech (TTS):** Converts the summarized content into Hindi speech.
+- **Text-to-Speech (TTS):** Converts the summarised content into Hindi speech.
 - **User Interface:** Built using Streamlit for easy interaction.
 - **API Development:** Frontend and backend communication via Flask APIs.
 - **Deployment:** Hosted on Hugging Face Spaces for public access.
@@ -47,7 +47,7 @@ streamlit run app.py
 ### Available Endpoints
 | Method | Endpoint | Description |
 |--------|-------------|-------------|
-| POST   | `/get_news` | Fetches news articles, analyzes sentiment, extracts keywords, and generates speech |
+| POST   | `/get_news` | Fetches news articles, analyses sentiment, extracts keywords, and generates speech |
 
 ### Sample API Request
 ```json
@@ -81,13 +81,12 @@ streamlit run app.py
 
 ## Evaluation Criteria
 ✅ **Correctness** - Extracts and processes information accurately.
-✅ **Efficiency** - Optimized for faster response time.
+✅ **Efficiency** - Optimised for faster response time.
 ✅ **Robustness** - Handles errors and edge cases.
 ✅ **Deployment** - Accessible via Hugging Face Spaces.
 ✅ **Code Quality** - Follows PEP8 guidelines and includes meaningful comments.
 
 ## Submission Details
-- **GitHub Repository:** [news-sentiment-app](https://github.com/Prithviraj-cyber/news-sentiment-app)
 - **Hugging Face Spaces Deployment:** [News Sentiment App](https://huggingface.co/spaces/anandsinghc22/news-sentiment-app)
 - **Demo Video:** [Upload & Share Link]
 
