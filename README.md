@@ -21,7 +21,7 @@ This project is a web-based application that extracts news articles related to a
 ### 2️⃣ Installation Steps
 ```bash
 # Clone the repository
-git clone https://github.com/Prithviraj-cyber/news-sentiment-app.git
+git clone https://github.com/anand-chauhan/AIProjectOptimizer
 cd news-sentiment-app
 
 # Install dependencies
@@ -87,7 +87,7 @@ streamlit run app.py
 ✅ **Code Quality** - Follows PEP8 guidelines and includes meaningful comments.
 
 ## Submission Details
-- **Hugging Face Spaces Deployment:** [News Sentiment App](https://huggingface.co/spaces/anandsinghc22/news-sentiment-app)
+- **Hugging Face Spaces Deployment:** https://huggingface.co/spaces/anandsinghc22/news-sentiment-app
 - **Demo Video:** [Upload & Share Link]
 
 ## Deadline
