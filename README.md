@@ -1,5 +1,5 @@
 # News Summarisation and Text-to-Speech Application
-
+ 
 ## Project Overview
 This project is a web-based application that extracts news articles related to a given company, performs sentiment analysis, conducts a comparative analysis, and generates a text-to-speech (TTS) output in Hindi. Users can input a company name and receive a structured sentiment report along with an audio summary.
 
